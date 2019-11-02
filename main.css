@@ -557,3 +557,15 @@ height: auto;
   -webkit-transition-duration: 1.1s; /* Safari */
   transition-duration: 1.0s;
 }
+.con13{
+  background-image: url(./water.jpg);
+  background-size: cover;
+
+  border-style: none;
+  border-radius: 1mm;
+  background-position: bottom;
+  width: 95%;
+  box-shadow: 0mm 0mm 4mm #1a1a1a;
+  -webkit-transition-duration: 1.1s; /* Safari */
+  transition-duration: 1.0s;
+}
