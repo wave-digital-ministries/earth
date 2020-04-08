@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "WDM | Earth",
-    "currentPage": "blog.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "gamingamp",
       "title": "GamingAMP",
@@ -50,7 +50,22 @@
     "imageResize": true,
     "uniqCompNum": 25,
     "versionPublish": "4.12.1",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "gdpr": {
+      "colorText": "#000000",
+      "colorLink": "#17bf63",
+      "underlineLink": true,
+      "text": "By continuing you agree to our <a href='privacy.html'>Privacy Policy</a>."
+    },
+    "favicon": false,
+    "canonical-url": false,
+    "cssOptimize": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "pwa-switcher": false
   },
   "pages": {
     "index.html": {
